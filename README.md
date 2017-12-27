@@ -4,6 +4,9 @@ Implementation of BFRT using jsPsych library.
 Based on Bruno Roisson's paper, "Normative data for accuracy and response times at the
 computerized Benton Facial Recognition Test (BFRT-c)"
 
+Public link for test: https://abstractia.blob.core.windows.net/bfrt-demo2/bfrt-demo2/index.html?experiment=bfrt-demo2
+*Note: test results are recorded
+
 ## jspsych-benton-face-part-one.js
 
 Plugin for part one of the BFRT. Displays six images from which one image is selected by the participant. 
